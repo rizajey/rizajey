@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arizaya Rama Putra
 
-### Information Systems Graduate | Aspiring System Analyst & Business Analyst | Data & AI Enthusiast
+### Information Systems Graduate | System & Business Analysis | Data & AI Enthusiast
 
 <p align="left">
   <a href="https://github.com/arizayarmp">
