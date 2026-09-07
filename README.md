@@ -164,21 +164,24 @@ A web-based nail art service application developed as an academic team project. 
 
 ---
 
-## 🌐 Web Development
+## 🎨 NailartByPutrii — UI/UX
 
-Web development projects created throughout my academic journey and continuous self-learning.
+A UI/UX design project for a nail art service application, focusing on creating an intuitive and user-friendly experience for customers to explore nail art services and manage appointments.
 
-### Areas
+### ✨ Activities
 
-* Front-End Development
-* HTML & CSS
-* JavaScript
-* Responsive Web Design
-* REST API
-* JSON
-* Fetch API
-* PHP
-* MySQL
+* User needs and requirements identification
+* User flow design
+* Information architecture
+* Wireframe design
+* UI design
+* Interactive prototyping
+* User interface improvement
+* Design consistency and usability consideration
+
+### 🔧 Technologies
+
+`Figma` · `UI/UX Design` · `Wireframing` · `Prototyping` · `User Flow` · `Information Architecture`
 
 ---
 
@@ -218,7 +221,7 @@ I'm continuously developing my technical and professional skills through certifi
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arizayarmp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arizayarmp&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arizayarmp&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
