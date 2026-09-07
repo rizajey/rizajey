@@ -13,7 +13,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm a *fresh graduate in Information Systems from Universitas Gunadarma* with a strong interest in *System Analysis, Business Analysis, Data Analytics, Artificial Intelligence, and technology-driven solutions*.
+**I'm a fresh graduate in Information Systems from Universitas Gunadarma** with a **strong interest in System Analysis, Business Analysis, Data Analytics, Artificial Intelligence, and technology-driven solutions.**
 
 I enjoy analyzing business requirements, understanding business processes, working with data, developing practical applications, and exploring how technology can be used to solve real-world problems.
 
@@ -21,25 +21,25 @@ I enjoy analyzing business requirements, understanding business processes, worki
 
 ## 👨‍💻 About Me
 
-🎓 *Information Systems Graduate* — Universitas Gunadarma
+🎓 Information Systems Graduate — Universitas Gunadarma
 
-💼 Aspiring *System Analyst & Business Analyst*
+💼 **Entry-Level System Analyst & Business Analyst**
 
-📊 Interested in *Data Analysis, EDA & Business Intelligence*
+🔄 **Interested in System Analysis, Business Analysis & Requirements Analysis**
 
-🤖 Interested in *Artificial Intelligence & Machine Learning*
+📊 Interested in Data Analysis, EDA & Business Intelligence
 
-🧠 Experienced in *Natural Language Processing & Text Classification*
+🤖 Interested in Artificial Intelligence & Machine Learning*
 
-🔄 Interested in *Business Process & Requirements Analysis*
+🧠 Experienced in Natural Language Processing & Text Classification
 
-🌐 Interested in *Web Application Development*
+🌐 Interested in Web Application Development
 
-🗄️ Familiar with *Database Management & Data Processing*
+🗄️ Familiar with Database Management & Data Processing
 
-🎨 Experienced in *UI/UX Design, Wireframing & Prototyping*
+🎨 Experienced in UI/UX Design, Wireframing & Prototyping
 
-📚 Passionate about *continuous learning and building practical projects*
+📚 Passionate about continuous learning and building practical projects
 
 ---
 
@@ -143,45 +143,24 @@ The *80:10:10 dataset split* achieved an F1-Score of approximately *0.9944* and 
 
 ---
 
-## 🎨 Nailsmood — UI/UX Design
+## 🎨 Nailsmood — Web APP
 
-A UI/UX design project focused on designing a digital experience for a nail art service application.
-
-The project emphasizes creating an intuitive user experience for browsing nail art services and managing appointments.
+A web-based nail art service application developed as an academic team project. As a System Analyst, I focused on requirements analysis, business process analysis, system workflow, and system documentation to support the development of the application.
 
 ### ✨ Activities
 
-* User flow design
-* Wireframing
-* User interface design
-* Interactive prototyping
-* User experience design
-* Interface evaluation
+* Business requirements analysis
+* Functional requirements analysis
+* Business process analysis
+* User requirements identification
+* System workflow design
+* Use case modeling
+* System documentation
+* Collaboration with development team
 
 ### 🔧 Technologies
 
-`Figma` · `UI/UX Design` · `Wireframing` · `Prototyping`
-
----
-
-## 📊 Data Analysis & Exploratory Data Analysis
-
-Data analysis projects focused on transforming raw datasets into meaningful information and insights.
-
-### Activities
-
-* Data collection
-* Data cleaning
-* Data preprocessing
-* Exploratory Data Analysis
-* Data visualization
-* Pattern identification
-* Trend analysis
-* Insight generation
-
-### 🔧 Technologies
-
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `Jupyter Notebook`
+`Figma` · `UML` · `System Analysis` · `Requirements Analysis` · `Business Process Modeling`
 
 ---
 
@@ -203,67 +182,38 @@ Web development projects created throughout my academic journey and continuous s
 
 ---
 
-# 💼 System & Business Analysis
+# 📚 Learning & Certifications
 
-My main career interest lies in bridging *business needs and technology solutions*.
+I'm continuously developing my technical and professional skills through certifications, academic training, and hands-on projects.
 
-### Areas of Interest
+### 🏆 Professional Certifications
 
-* Business Requirements Analysis
-* Functional Requirements
-* System Requirements
-* Business Process Analysis
-* Process Improvement
-* User Requirements
-* Use Case Analysis
-* System Modeling
-* Data Analysis
-* System Documentation
-* User Acceptance Testing
-* Software Development Life Cycle
+* **Software Engineer** — RevoU
+* **System Analyst** — Badan Nasional Sertifikasi Profesi (BNSP)
+* **Multimedia Services** — Badan Nasional Sertifikasi Profesi (BNSP)
 
-I am interested in understanding not only *how a system is built*, but also *why the system is needed, how it should work, and how it can provide value to the business*.
+### 🎓 Universitas Gunadarma
 
----
+* **Web Object Oriented Programming** — Universitas Gunadarma
+* **JavaScript Intermediate** — Universitas Gunadarma
+* **Golang Intermediate** — Universitas Gunadarma
+* **Oracle Intermediate** — Universitas Gunadarma
 
-# 📚 Education & Learning
+### 📖 Areas of Learning
 
-## 🎓 Universitas Gunadarma
+* **System Analysis & Design**
+* **Business Analysis**
+* **Business Process Analysis**
+* **Requirements Analysis**
+* **Software Engineering**
+* **Data Analytics**
+* **Artificial Intelligence**
+* **Machine Learning**
+* **Natural Language Processing**
+* **Web Development**
+* **Database Management**
+* **Object-Oriented Programming**
 
-**Bachelor's Degree — Information Systems**
-
-My academic background has provided me with knowledge and practical experience in:
-
-* Information Systems
-* System Analysis & Design
-* Database Management
-* Business Process
-* Data Analysis
-* Software Development
-* UI/UX Design
-* Machine Learning
-* Artificial Intelligence
-* Information Technology
-
-### 📖 Continuous Learning
-
-I'm continuously developing my technical and professional skills through academic projects, self-learning, online courses, certifications, and hands-on practice.
-
-Areas of learning include:
-
-* Python Programming
-* Data Analytics
-* Machine Learning
-* Artificial Intelligence
-* Natural Language Processing
-* Web Development
-* Database Management
-* System Analysis
-* Business Analysis
-* UI/UX Design
-* Software Testing & QA
-
----
 
 # 📊 GitHub Statistics
 
@@ -274,43 +224,27 @@ Areas of learning include:
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arizayarmp&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arizayarmp&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🎯 Currently Learning
 
-🌱 *System Analysis*
+🌱 **System Analysis**
 
-💼 *Business Analysis*
+💼 **Business Analysis**
 
-📊 *Data Analytics*
+📊 **Data Analytics**
 
-🤖 *Machine Learning*
+🤖 **Machine Learning**
 
-🧠 *Artificial Intelligence*
+🧠 **Artificial Intelligence**
 
-🔤 *Natural Language Processing*
+🔤 **Natural Language Processing**
 
-📈 *Business Intelligence*
+📈 **Business Intelligence**
 
-🌐 *Web Development*
+🌐 **Web Development**
 
-🧪 *Software Testing & QA*
+🧪 **Software Testing & QA**
 
-☁️ *Cloud Computing*
+☁️ **Cloud Computing**
 
 ---
 
@@ -318,16 +252,16 @@ Areas of learning include:
 
 I'm interested in opportunities related to:
 
-* *System Analyst*
-* *Business Analyst*
-* *Data Analyst*
-* *Business Intelligence*
-* *IT / Information Systems*
-* *QA / Software Testing*
-* *Junior Software Developer*
-* *AI / Machine Learning — Entry Level*
+* **System Analyst**
+* **Business Analyst**
+* **Data Analyst**
+* **Business Intelligence**
+* **IT / Information Systems**
+* **QA / Software Testing**
+* **Junior Software Developer**
+* **AI / Machine Learning — Entry Level**
 
-I am especially interested in roles where I can combine *business understanding, analytical thinking, technology, and problem-solving* to develop effective and practical solutions.
+I am especially interested in roles where I can combine **business understanding, analytical thinking, technology, and problem-solving** to develop effective and practical solutions.
 
 I'm open to learning, collaboration, and opportunities where I can contribute while continuously developing my technical and professional skills.
 
@@ -349,16 +283,7 @@ I'm open to learning, collaboration, and opportunities where I can contribute wh
 
 ---
 
-### 💡 My Philosophy
 
-> *Understand. Analyze. Build. Improve.*
-
-I believe that technology is not only about writing code, but also about *understanding problems, analyzing requirements, and creating solutions that provide real value*.
-
-As an Information Systems graduate, I aim to bridge the gap between *business needs and technology* through analytical thinking, continuous learning, and practical problem-solving.
-
----
-
-⭐ *Thanks for visiting my GitHub profile!*
+⭐Thanks for visiting my GitHub profile!
 
 Feel free to explore my repositories and projects.
